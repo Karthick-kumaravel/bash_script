@@ -1,3 +1,6 @@
+
+################################################# Change the remote server password in a regular interval ################################################
+
 #!/bin/bash
 
 ip=`grep -o '[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}' /root/kk/password.txt`
