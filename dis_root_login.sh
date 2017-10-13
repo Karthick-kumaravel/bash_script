@@ -1,3 +1,5 @@
+######################################################## Disable the Root user password login of the remote server ################################################################
+
 #!/bin/bash
 ip=`grep -o '[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}' /root/kk/password.txt`
 
@@ -16,3 +18,7 @@ for i in $ip; do
         	echo "Server is not reachable"
         fi
 done
+
+
+Note:-
+     i) /root/kk/password.txt - File contains Ip in the 1st column and the password in the second column
