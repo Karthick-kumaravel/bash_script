@@ -28,6 +28,6 @@ exit 0
 
 Note:-
      i) I have achived this from my master server, From the master serevr i have made password less loging to my all remote server
-    ii) /root/kk/password.txt - File contains Ip or hostname in the 1st column and the password in the second column
+    ii) /root/kk/password.txt - File contains Ip in the 1st column and the password in the second column
    iii) To mail the password to the email id follow the mail.py script in the samew folder. 
    
