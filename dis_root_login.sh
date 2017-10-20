@@ -21,4 +21,4 @@ done
 
 
 Note:-
-     i) /root/kk/password.txt - File contains Ip in the 1st column and the password in the second column
+     i) /root/kk/password.txt - File contains Ip in the 1st column and the password in the second column.
